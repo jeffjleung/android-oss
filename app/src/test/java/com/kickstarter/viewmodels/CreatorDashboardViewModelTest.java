@@ -16,7 +16,6 @@ import com.kickstarter.models.ProjectStats;
 import com.kickstarter.services.MockApiClient;
 import com.kickstarter.services.apiresponses.ProjectsEnvelope;
 
-import org.joda.time.DateTime;
 import org.junit.Test;
 
 import java.util.Arrays;
